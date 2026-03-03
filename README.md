@@ -29,3 +29,4 @@
 <hr>
 <a href="https://google.com">Google</a>
 <img src="img/basicTagsLab5_Abbasov.png" alt="screenshot">
+
